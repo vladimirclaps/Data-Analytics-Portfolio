@@ -15,3 +15,4 @@ Built a simple program to get different bond attributes for any emision and matu
 
 * Web scrapping algorithm to get rugby championship results, test for relevant metrics and predict results.
 * Notebook testing if stock ratios and its difference vs the index can help identify short/long strategies.
+* Personal webpage with Django to show CV and portfolio.
